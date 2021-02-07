@@ -6,3 +6,5 @@
 // commit 222
 // commit 333
 // amend
+// amend 1
+// amend 2
